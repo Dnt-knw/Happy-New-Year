@@ -1,26 +1,31 @@
 html {
   background: linear-gradient(315deg, #274a6e 0%, #021b30 74%);
-  width: 100%;
-  height: 100%;
-  min-width: 748px;
-  min-height: 768px;
+  width: 100vw;
+  height: 100vh;
   overflow: hidden;
-  zoom: 80%;
   position: absolute;
   top: 0;
   left: 0;
-  padding: 30px;
 }
 
 body {
-  width: 748px;
-  height: 768px;
+  width: 100%;
+  height: 100%;
   margin: 0;
   padding: 0;
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  top: 0;
+  left: 0;
+}
+
+.main-wrapper {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transform: scale(1);
+  transform-origin: center center;
 }
 
 .container1 {
@@ -835,16 +840,6 @@ body {
 .circle6 {
   left: 48%;
   top: -104%;
-}
-@media screen and (max-width: 828px) {
-  html {
-    overflow: auto;
-  }
-}
-@media screen and (max-height: 808px) {
-  html {
-    overflow: auto;
-  }
 }
 @keyframes opacity {
   from {
@@ -4211,6 +4206,11 @@ body {
   top: 350px;
   z-index: 999;
 }
+.container1, .container2, .container3 {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
 @keyframes disappear2 {
   from {
   opacity: 1;
@@ -4359,5 +4359,65 @@ body {
   to {
   opacity: 1;
   z-index: 999;
+  }
+}
+
+@media screen and (max-width: 790px) {
+  .main-wrapper {
+    transform: scale(0.75);
+  }
+}
+
+@media screen and (max-width: 610px) {
+  .main-wrapper {
+    transform: scale(0.5);
+  }
+}
+
+@media screen and (max-width: 415px) {
+  .main-wrapper {
+    transform: scale(0.4);
+  }
+}
+
+@media screen and (max-width: 330px) {
+  .main-wrapper {
+    transform: scale(0.3);
+  }
+}
+
+@media screen and (max-width: 240px) {
+  .main-wrapper {
+    transform: scale(0.2);
+  }
+}
+
+@media screen and (max-height: 810px) and (min-width: 790px) {
+  .main-wrapper {
+    transform: scale(0.75);
+  }
+}
+
+@media screen and (max-height: 630px) and (min-width: 610px) {
+  .main-wrapper {
+    transform: scale(0.5);
+  }
+}
+
+@media screen and (max-height: 435px) and (min-width: 415px) {
+  .main-wrapper {
+    transform: scale(0.4);
+  }
+}
+
+@media screen and (max-height: 350px) and (min-width: 330px) {
+  .main-wrapper {
+    transform: scale(0.3);
+  }
+}
+
+@media screen and (max-height: 260px) and (min-width: 240px) {
+  .main-wrapper {
+    transform: scale(0.2);
   }
 }
