@@ -37,8 +37,6 @@ body {
   width: 748px;
   background: #dfed77;
   overflow: hidden;
-  opacity: 0;
-  animation: container1 60s linear infinite;
 }
 .left {
   position: relative;
@@ -852,360 +850,360 @@ body {
 @keyframes snow1 {
   from {
   transform: translateY(-35px) translateX(60px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(240px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow2 {
   from {
   transform: translateY(-35px) translateX(0px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(285px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow3 {
   from {
   transform: translateY(-35px) translateX(165px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(15px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow4 {
   from {
   transform: translateY(-35px) translateX(270px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(30px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow5 {
   from {
   transform: translateY(-35px) translateX(6px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(282px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow6 {
   from {
   transform: translateY(-35px) translateX(135px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(345px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow7 {
   from {
   transform: translateY(-35px) translateX(21px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(291px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow8 {
   from {
   transform: translateY(-35px) translateX(297px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(-36px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow9 {
   from {
   transform: translateY(-35px) translateX(-45px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(375px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow10 {
   from {
   transform: translateY(-35px) translateX(105px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(315px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow11 {
   from {
   transform: translateY(-35px) translateX(360px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(-90px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow12 {
   from {
   transform: translateY(-35px) translateX(42px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(327px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow13 {
   from {
   transform: translateY(-35px) translateX(174px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(228px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow14 {
   from {
   transform: translateY(-35px) translateX(81px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(219px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow15 {
   from {
   transform: translateY(-35px) translateX(351px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(-69px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow16 {
   from {
   transform: translateY(-35px) translateX(300px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(-30px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow17 {
   from {
   transform: translateY(-35px) translateX(9px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(234px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow18 {
   from {
   transform: translateY(-35px) translateX(-6px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(276px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow19 {
   from {
   transform: translateY(-35px) translateX(-39px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(339px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow20 {
   from {
   transform: translateY(-35px) translateX(102px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(288px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow21 {
   from {
   transform: translateY(-35px) translateX(18px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(108px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow22 {
   from {
   transform: translateY(-35px) translateX(111px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(48px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow23 {
   from {
   transform: translateY(-35px) translateX(72px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(-15px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow24 {
   from {
   transform: translateY(-35px) translateX(162px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(258px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow25 {
   from {
   transform: translateY(-35px) translateX(-42px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(72px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow26 {
   from {
   transform: translateY(-35px) translateX(78px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(48px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow27 {
   from {
   transform: translateY(-35px) translateX(141px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(93px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow28 {
   from {
   transform: translateY(-35px) translateX(138px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(198px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow29 {
   from {
   transform: translateY(-35px) translateX(228px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(156px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow30 {
   from {
   transform: translateY(-35px) translateX(114px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
   to {
   transform: translateY(385px) translateX(132px);
-  opacity: 9;
+  opacity: 1;
   z-index: 20;
   }
 }
@@ -1304,23 +1302,6 @@ body {
   transform: translateY(0px);
   }
 }
-@keyframes container1 {
-  from {
-  opacity: 1;
-  z-index: 999;
-  }
-  33.3% {
-  opacity: 1;
-  z-index: 999;
-  }
-  33.4% {
-  opacity: 0;
-  }
-  to {
-  opacity: 0;
-  }
-}
-
 .container2 {
   position: absolute;
   top: 0;
@@ -1329,9 +1310,7 @@ body {
   width: 748px;
   background: linear-gradient(#120944 30%, #eaeaea 30%);
   overflow: hidden;
-  opacity: 0;
   border-radius: 20px;
-  animation: container2 60s linear infinite;
 }
 .fence_top1 {
   position: relative;
@@ -3130,28 +3109,6 @@ body {
   transform: translateX(-500px);
   }
 }
-@keyframes container2 {
-  from {
-  opacity: 0;
-  }
-  33.3% {
-  opacity: 0;
-  }
-  33.4% {
-  opacity: 1;
-  z-index: 999;
-  }
-  65.9% {
-  opacity: 1;
-  z-index: 999;
-  }
-  66% {
-  opacity: 0;
-  }
-  to {
-  opacity: 0;
-  }
-}
 @keyframes rotate_2 {
   from {
   transform: rotate(0deg);
@@ -3200,7 +3157,6 @@ body {
   overflow: hidden;
   border-radius: 20px;
   z-index: 9;
-  animation: container3 60s linear infinite;
 }
 .big_moon {
   position: absolute;
@@ -4345,23 +4301,6 @@ body {
   opacity: 0;
   }
 }
-@keyframes container3 {
-  from {
-  opacity: 0;
-  }
-  65.9% {
-  opacity: 0;
-  }
-  66% {
-  opacity: 1;
-  z-index: 999;
-  }
-  to {
-  opacity: 1;
-  z-index: 999;
-  }
-}
-
 @media screen and (min-width: 1440px) and (min-height: 900px) {
   .main-wrapper {
     transform: scale(1.1);

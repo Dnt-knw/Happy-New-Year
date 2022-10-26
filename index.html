@@ -544,5 +544,36 @@
 	  </div>
 	</div>
   	</div>
+    <script>
+      const [container1, container2, container3] = document.querySelectorAll('.container1, .container2, .container3');
+
+      const setDisplay = (d1, d2, d3) => {
+        container1.style.display = d1;
+        container2.style.display = d2;
+        container3.style.display = d3;
+      };
+
+      setDisplay('block', 'none', 'none');
+
+      const isVisible = container => container.style.display === 'block';
+
+      const setContainer = () => {
+        if ( isVisible(container1) ) {
+          setDisplay('none', 'block', 'none');
+          return;
+        }
+
+        if ( isVisible(container2) ) {
+          setDisplay('none', 'none', 'block');
+          return;
+        }
+
+        if ( isVisible(container3) ) {
+          setDisplay('block', 'none', 'none');
+        }
+      };
+
+      setInterval(setContainer, 20000);
+    </script>
   </body>
 </html>
