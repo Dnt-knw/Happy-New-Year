@@ -553,8 +553,6 @@
         container3.style.display = d3;
       };
 
-      setDisplay('block', 'none', 'none');
-
       const isVisible = container => container.style.display === 'block';
 
       const setContainer = () => {
@@ -573,7 +571,12 @@
         }
       };
 
-      setInterval(setContainer, 20000);
+      const onWindowLoad = () => {
+        setDisplay('block', 'none', 'none');
+        setInterval(setContainer, 20000);
+      };
+
+      onload = onWindowLoad;
     </script>
   </body>
 </html>

@@ -840,375 +840,375 @@ body {
   top: -104%;
 }
 @keyframes opacity {
-  from {
+  0% {
   opacity: 0.5;
   }
-  to {
+  100% {
   opacity: 1;
   }
 }
 @keyframes snow1 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(60px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(240px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow2 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(0px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(285px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow3 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(165px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(15px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow4 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(270px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(30px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow5 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(6px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(282px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow6 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(135px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(345px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow7 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(21px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(291px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow8 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(297px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(-36px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow9 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(-45px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(375px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow10 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(105px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(315px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow11 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(360px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(-90px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow12 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(42px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(327px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow13 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(174px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(228px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow14 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(81px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(219px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow15 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(351px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(-69px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow16 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(300px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(-30px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow17 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(9px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(234px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow18 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(-6px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(276px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow19 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(-39px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(339px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow20 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(102px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(288px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow21 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(18px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(108px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow22 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(111px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(48px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow23 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(72px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(-15px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow24 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(162px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(258px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow25 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(-42px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(72px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow26 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(78px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(48px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow27 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(141px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(93px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow28 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(138px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(198px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow29 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(228px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(156px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes snow30 {
-  from {
+  0% {
   transform: translateY(-35px) translateX(114px);
   opacity: 1;
   z-index: 20;
   }
-  to {
+  100% {
   transform: translateY(385px) translateX(132px);
   opacity: 1;
   z-index: 20;
   }
 }
 @keyframes head_beard_mustache {
-  from {
+  0% {
   transform: translateY(0px);
   }
   40% {
@@ -1220,12 +1220,12 @@ body {
   95% {
   transform: translateY(3.5px);
   }
-  to {
+  100% {
   transform: translateY(0px);
   }
 }
 @keyframes hat {
-  from {
+  0% {
   transform: translateY(0px) rotate(-5deg);
   }
   40% {
@@ -1237,12 +1237,12 @@ body {
   95% {
   transform: translateY(3.5px) rotate(-5deg);
   }
-  to {
+  100% {
   transform: translateY(0px) rotate(-5deg);
   }
 }
 @keyframes mouth {
-  from {
+  0% {
   transform: scaleX(1) translateY(0px);
   }
   40% {
@@ -1254,12 +1254,12 @@ body {
   95% {
   transform: scaleX(1.3) translateY(3.5px);
   }
-  to {
+  100% {
   transform: scaleX(1) translateY(0px);
   }
 }
 @keyframes body {
-  from {
+  0% {
   transform: translateY(0px);
   }
   40% {
@@ -1298,7 +1298,7 @@ body {
   95% {
   transform: translateY(-3.5px);
   }
-  to {
+  100% {
   transform: translateY(0px);
   }
 }
@@ -2160,988 +2160,988 @@ body {
   animation: color_change 0.6s ease-in alternate infinite;
 }
 @keyframes snow31 {
-  from {
+  0% {
   transform: translateY(-790px) translateX(412.2px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1161px);
   opacity: 1;
   }
 }
 @keyframes snow32 {
-  from {
+  0% {
   transform: translateY(-790px) translateX(512px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1235.8px);
   opacity: 1;
   }
 }
 @keyframes snow33 {
-  from {
+  0% {
   transform: translateY(-790px) translateX(411.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1110.6px);
   opacity: 1;
   }
 }
 @keyframes snow34 {
-  from {
+  0% {
   transform: translateY(-790px) translateX(361.8px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1026.2px);
   opacity: 1;
   }
 }
 @keyframes snow35 {
-  from {
+  0% {
   transform: translateY(-790px) translateX(450px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1074px);
   opacity: 1;
   }
 }
 @keyframes snow36 {
-  from {
+  0% {
   transform: translateY(-790px) translateX(274.8px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(973.2px);
   opacity: 1;
   }
 }
 @keyframes snow37 {
-  from {
+  0% {
   transform: translateY(-790px) translateX(324.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1122.8px);
   opacity: 1;
   }
 }
 @keyframes snow38 {
-  from {
+  0% {
   transform: translateY(-790px) translateX(324.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1072.4px);
   opacity: 1;
   }
 }
 @keyframes snow39 {
-  from {
+  0% {
   transform: translateY(-790px) translateX(187px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1066.6px);
   opacity: 1;
   }
 }
 @keyframes snow40 {
-  from {
+  0% {
   transform: translateY(-790px) translateX(249.6px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1011.4px);
   opacity: 1;
   }
 }
 @keyframes snow41 {
-  from {
+  0% {
   transform: translateY(-870px) translateX(387px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1051.2px);
   opacity: 1;
   }
 }
 @keyframes snow42 {
-  from {
+  0% {
   transform: translateY(-870px) translateX(137.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1321.8px);
   opacity: 1;
   }
 }
 @keyframes snow43 {
-  from {
+  0% {
   transform: translateY(-870px) translateX(232.2px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1045px);
   opacity: 1;
   }
 }
 @keyframes snow44 {
-  from {
+  0% {
   transform: translateY(-870px) translateX(267px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(936.6px);
   opacity: 1;
   }
 }
 @keyframes snow45 {
-  from {
+  0% {
   transform: translateY(-870px) translateX(1274.8px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(124.4px);
   opacity: 1;
   }
 }
 @keyframes snow46 {
-  from {
+  0% {
   transform: translateY(-870px) translateX(1187px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(299.2px);
   opacity: 1;
   }
 }
 @keyframes snow47 {
-  from {
+  0% {
   transform: translateY(-870px) translateX(1336.6px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(486.2px);
   opacity: 1;
   }
 }
 @keyframes snow48 {
-  from {
+  0% {
   transform: translateY(-870px) translateX(1112.2px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(561px);
   opacity: 1;
   }
 }
 @keyframes snow49 {
-  from {
+  0% {
   transform: translateY(-870px) translateX(1224.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(336.6px);
   opacity: 1;
   }
 }
 @keyframes snow50 {
-  from {
+  0% {
   transform: translateY(-870px) translateX(1261.8px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(486.2px);
   opacity: 1;
   }
 }
 @keyframes snow51 {
-  from {
+  0% {
   transform: translateY(-940px) translateX(1112.2px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(486.2px);
   opacity: 1;
   }
 }
 @keyframes snow52 {
-  from {
+  0% {
   transform: translateY(-940px) translateX(1187px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(635.8px);
   opacity: 1;
   }
 }
 @keyframes snow53 {
-  from {
+  0% {
   transform: translateY(-940px) translateX(1299.2px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(673.2px);
   opacity: 1;
   }
 }
 @keyframes snow54 {
-  from {
+  0% {
   transform: translateY(-940px) translateX(1074.8px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(361px);
   opacity: 1;
   }
 }
 @keyframes snow55 {
-  from {
+  0% {
   transform: translateY(-940px) translateX(337.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1185.4px);
   opacity: 1;
   }
 }
 @keyframes snow56 {
-  from {
+  0% {
   transform: translateY(-940px) translateX(412.2px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1261.8px);
   opacity: 1;
   }
 }
 @keyframes snow57 {
-  from {
+  0% {
   transform: translateY(-940px) translateX(1111.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(186.2px);
   opacity: 1;
   }
 }
 @keyframes snow58 {
-  from {
+  0% {
   transform: translateY(-940px) translateX(212.2px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(935.8px);
   opacity: 1;
   }
 }
 @keyframes snow59 {
-  from {
+  0% {
   transform: translateY(-940px) translateX(386.2px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1035.8px);
   opacity: 1;
   }
 }
 @keyframes snow60 {
-  from {
+  0% {
   transform: translateY(-940px) translateX(1135.8px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(336.6px);
   opacity: 1;
   }
 }
 @keyframes snow61 {
-  from {
+  0% {
   transform: translateY(-1015px) translateX(1112.2px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(486.2px);
   opacity: 1;
   }
 }
 @keyframes snow62 {
-  from {
+  0% {
   transform: translateY(-1015px) translateX(1187px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(635.8px);
   opacity: 1;
   }
 }
 @keyframes snow63 {
-  from {
+  0% {
   transform: translateY(-1015px) translateX(299.2px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1073.2px);
   opacity: 1;
   }
 }
 @keyframes snow64 {
-  from {
+  0% {
   transform: translateY(-1015px) translateX(374.8px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1161px);
   opacity: 1;
   }
 }
 @keyframes snow65 {
-  from {
+  0% {
   transform: translateY(-1015px) translateX(337.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(985.4px);
   opacity: 1;
   }
 }
 @keyframes snow66 {
-  from {
+  0% {
   transform: translateY(-1015px) translateX(212.2px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1261.8px);
   opacity: 1;
   }
 }
 @keyframes snow67 {
-  from {
+  0% {
   transform: translateY(-1015px) translateX(1411.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(486.2px);
   opacity: 1;
   }
 }
 @keyframes snow68 {
-  from {
+  0% {
   transform: translateY(-1015px) translateX(234px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(835.8px);
   opacity: 1;
   }
 }
 @keyframes snow69 {
-  from {
+  0% {
   transform: translateY(-1015px) translateX(486.2px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1035.8px);
   opacity: 1;
   }
 }
 @keyframes snow70 {
-  from {
+  0% {
   transform: translateY(-1095px) translateX(335.8px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1336.6px);
   opacity: 1;
   }
 }
 @keyframes snow71 {
-  from {
+  0% {
   transform: translateY(-1095px) translateX(337.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1187px);
   opacity: 1;
   }
 }
 @keyframes snow72 {
-  from {
+  0% {
   transform: translateY(-1095px) translateX(1042px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(149.6px);
   opacity: 1;
   }
 }
 @keyframes snow73 {
-  from {
+  0% {
   transform: translateY(-1095px) translateX(973.2px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(223.6px);
   opacity: 1;
   }
 }
 @keyframes snow74 {
-  from {
+  0% {
   transform: translateY(-1095px) translateX(412.2px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(982.8px);
   opacity: 1;
   }
 }
 @keyframes snow75 {
-  from {
+  0% {
   transform: translateY(-1095px) translateX(27.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(812.2px);
   opacity: 1;
   }
 }
 @keyframes snow76 {
-  from {
+  0% {
   transform: translateY(-1095px) translateX(860.2px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(286.2px);
   opacity: 1;
   }
 }
 @keyframes snow77 {
-  from {
+  0% {
   transform: translateY(-1095px) translateX(1411.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(635.8px);
   opacity: 1;
   }
 }
 @keyframes snow78 {
-  from {
+  0% {
   transform: translateY(-1095px) translateX(561px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(411.4px);
   opacity: 1;
   }
 }
 @keyframes snow79 {
-  from {
+  0% {
   transform: translateY(-1095px) translateX(636.6px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(847.4px);
   opacity: 1;
   }
 }
 @keyframes snow80 {
-  from {
+  0% {
   transform: translateY(-1170px) translateX(1187px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(635.8px);
   opacity: 1;
   }
 }
 @keyframes snow81 {
-  from {
+  0% {
   transform: translateY(-1170px) translateX(1137.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(287px);
   opacity: 1;
   }
 }
 @keyframes snow82 {
-  from {
+  0% {
   transform: translateY(-1170px) translateX(347px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1212.2px);
   opacity: 1;
   }
 }
 @keyframes snow83 {
-  from {
+  0% {
   transform: translateY(-1170px) translateX(673.2px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(323.6px);
   opacity: 1;
   }
 }
 @keyframes snow84 {
-  from {
+  0% {
   transform: translateY(-1170px) translateX(499.2px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(848.8px);
   opacity: 1;
   }
 }
 @keyframes snow85 {
-  from {
+  0% {
   transform: translateY(-1170px) translateX(237.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1112.2px);
   opacity: 1;
   }
 }
 @keyframes snow86 {
-  from {
+  0% {
   transform: translateY(-1170px) translateX(1160.2px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(286.2px);
   opacity: 1;
   }
 }
 @keyframes snow87 {
-  from {
+  0% {
   transform: translateY(-1170px) translateX(311.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(935.8px);
   opacity: 1;
   }
 }
 @keyframes snow88 {
-  from {
+  0% {
   transform: translateY(-1170px) translateX(259px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(853.4px);
   opacity: 1;
   }
 }
 @keyframes snow89 {
-  from {
+  0% {
   transform: translateY(-1170px) translateX(351.6px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(723.4px);
   opacity: 1;
   }
 }
 @keyframes snow90 {
-  from {
+  0% {
   transform: translateY(-1170px) translateX(931px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(483.8px);
   opacity: 1;
   }
 }
 @keyframes snow91 {
-  from {
+  0% {
   transform: translateY(-1210px) translateX(1131px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(187px);
   opacity: 1;
   }
 }
 @keyframes snow92 {
-  from {
+  0% {
   transform: translateY(-1210px) translateX(523px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1149.6px);
   opacity: 1;
   }
 }
 @keyframes snow93 {
-  from {
+  0% {
   transform: translateY(-1210px) translateX(373.2px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(1023.6px);
   opacity: 1;
   }
 }
 @keyframes snow94 {
-  from {
+  0% {
   transform: translateY(-1210px) translateX(629.2px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(538.8px);
   opacity: 1;
   }
 }
 @keyframes snow95 {
-  from {
+  0% {
   transform: translateY(-1210px) translateX(617.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(712.2px);
   opacity: 1;
   }
 }
 @keyframes snow96 {
-  from {
+  0% {
   transform: translateY(-1210px) translateX(774px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(442.4px);
   opacity: 1;
   }
 }
 @keyframes snow97 {
-  from {
+  0% {
   transform: translateY(-1210px) translateX(823.6px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(610.6px);
   opacity: 1;
   }
 }
 @keyframes snow98 {
-  from {
+  0% {
   transform: translateY(-1210px) translateX(710.6px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(618.8px);
   opacity: 1;
   }
 }
 @keyframes snow99 {
-  from {
+  0% {
   transform: translateY(-1210px) translateX(411.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(561px);
   opacity: 1;
   }
 }
 @keyframes snow100 {
-  from {
+  0% {
   transform: translateY(-1440px) translateX(561px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(635.8px);
   opacity: 1;
   }
 }
 @keyframes snow101 {
-  from {
+  0% {
   transform: translateY(-1440px) translateX(487px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(912.2px);
   opacity: 1;
   }
 }
 @keyframes snow102 {
-  from {
+  0% {
   transform: translateY(-1440px) translateX(419px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(973.2px);
   opacity: 1;
   }
 }
 @keyframes snow103 {
-  from {
+  0% {
   transform: translateY(-1440px) translateX(386.2px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(473.2px);
   opacity: 1;
   }
 }
 @keyframes snow104 {
-  from {
+  0% {
   transform: translateY(-1440px) translateX(523.6px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(673.2px);
   opacity: 1;
   }
 }
 @keyframes snow105 {
-  from {
+  0% {
   transform: translateY(-1440px) translateX(636.6px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(735.8px);
   opacity: 1;
   }
 }
 @keyframes snow106 {
-  from {
+  0% {
   transform: translateY(-1440px) translateX(448.8px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(785.4px);
   opacity: 1;
   }
 }
 @keyframes snow107 {
-  from {
+  0% {
   transform: translateY(-1440px) translateX(523.6px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(710.6px);
   opacity: 1;
   }
 }
 @keyframes snow108 {
-  from {
+  0% {
   transform: translateY(-1440px) translateX(411.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(948px);
   opacity: 1;
   }
 }
 @keyframes snow109 {
-  from {
+  0% {
   transform: translateY(-1440px) translateX(1058.8px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(510.6px);
   opacity: 1;
   }
 }
 @keyframes snow110 {
-  from {
+  0% {
   transform: translateY(-1440px) translateX(1061px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(635.8px);
   opacity: 1;
   }
 }
 @keyframes snow111 {
-  from {
+  0% {
   transform: translateY(-1675px) translateX(636.6px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(785.4px);
   opacity: 1;
   }
 }
 @keyframes snow112 {
-  from {
+  0% {
   transform: translateY(-1675px) translateX(224.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(973.2px);
   opacity: 1;
   }
 }
 @keyframes snow113 {
-  from {
+  0% {
   transform: translateY(-1675px) translateX(411.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(673.2px);
   opacity: 1;
   }
 }
 @keyframes snow114 {
-  from {
+  0% {
   transform: translateY(-1675px) translateX(323.6px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(789.6px);
   opacity: 1;
   }
 }
 @keyframes snow115 {
-  from {
+  0% {
   transform: translateY(-1675px) translateX(536.6px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(687px);
   opacity: 1;
   }
 }
 @keyframes snow116 {
-  from {
+  0% {
   transform: translateY(-1675px) translateX(598.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(261.8px);
   opacity: 1;
   }
 }
 @keyframes snow117 {
-  from {
+  0% {
   transform: translateY(-1675px) translateX(420.6px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(612.2px);
   opacity: 1;
   }
 }
 @keyframes snow118 {
-  from {
+  0% {
   transform: translateY(-1675px) translateX(237.4px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(785.4px);
   opacity: 1;
   }
 }
 @keyframes snow119 {
-  from {
+  0% {
   transform: translateY(-1675px) translateX(918.8px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(573.2px);
   opacity: 1;
   }
 }
 @keyframes snow120 {
-  from {
+  0% {
   transform: translateY(-1675px) translateX(561px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(345.6px) translateX(299.2px);
   opacity: 1;
   }
 }
 @keyframes blink {
-  from {
+  0% {
   border-color: #de0003;
   }
-  to {
+  100% {
   border-color: #9d0002;
   }
 }
 @keyframes blink_2 {
-  from {
+  0% {
   box-shadow: 0px -3px #de0003;
   }
-  to {
+  100% {
   box-shadow: 0px -3px #9d0002;
   }
 }
 @keyframes blink_3 {
-  from {
+  0% {
   background: #de0003;
   }
-  to {
+  100% {
   background: #9d0002;
   }
 }
 @keyframes blink_4 {
-  from {
+  0% {
   color: #de0003;
   }
-  to {
+  100% {
   color: #9d0002;
   }
 }
 @keyframes rotate {
-  from {
+  0% {
   transform: rotate(360deg);
   transform-origin: center center;
   }
-  to {
+  100% {
   transform: rotate(0deg);
   transform-origin: center center;
   }
 }
 @keyframes truck1_move {
-  from {
+  0% {
   transform: translateX(850px);
   }
-  to {
+  100% {
   transform: translateX(-500px);
   }
 }
 @keyframes rotate_2 {
-  from {
+  0% {
   transform: rotate(0deg);
   transform-origin: center center;
   }
-  to {
+  100% {
   transform: rotate(360deg);
   transform-origin: center center;
   }
 }
 @keyframes truck2_move {
-  from {
+  0% {
   transform: translateX(-400px);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateX(800px);
   opacity: 1;
   }
 }
 @keyframes color_change {
-  from {
+  0% {
   color: #4ad6e6;
   }
-  to {
+  100% {
   color: #19adc0;
   }
 }
 @keyframes change_border_color {
-  from {
+  0% {
   border-color: #4ad6e6;
   }
-  to {
+  100% {
   border-color: #19adc0;
   }
 }
@@ -4166,9 +4166,10 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-  }
+    display: none;
+}
 @keyframes disappear2 {
-  from {
+  0% {
   opacity: 1;
   }
   24.5% {
@@ -4177,12 +4178,12 @@ body {
   25% {
   opacity: 0;
   }
-  to {
+  100% {
   opacity: 0;
   }
 }
 @keyframes appear2 {
-  from {
+  0% {
   opacity: 0;
   }
   24.5% {
@@ -4191,12 +4192,12 @@ body {
   25% {
   opacity: 1;
   }
-  to {
+  100% {
   opacity: 1;
   }
 }
 @keyframes rotate_santa {
-  from {
+  0% {
   transform: rotate(5deg);
   }
   24.5% {
@@ -4205,20 +4206,20 @@ body {
   25% {
   transform: rotate(-5deg);
   }
-  to {
+  100% {
   transform: rotate(-5deg);
   }
 }
 @keyframes santa_claus_move {
-  from {
+  0% {
   transform: translateX(-600px) translateY(200px) rotate(-15deg);
   }
-  to {
+  100% {
   transform: translateX(1100px) translateY(-100px) rotate(0deg);
   }
 }
 @keyframes tree1 {
-  from {
+  0% {
   transform: rotate(3deg);
   transform-origin: center bottom;
   }
@@ -4226,13 +4227,13 @@ body {
   transform: rotate(1deg);
   transform-origin: center bottom;
   }
-  to {
+  100% {
   transform: rotate(-3deg);
   transform-origin: center bottom;
   }
 }
 @keyframes tree2 {
-  from {
+  0% {
   transform: rotate(2deg);
   transform-origin: center bottom;
   }
@@ -4240,13 +4241,13 @@ body {
   transform: rotate(0deg);
   transform-origin: center bottom;
   }
-  to {
+  100% {
   transform: rotate(-4deg);
   transform-origin: center bottom;
   }
 }
 @keyframes tree3 {
-  from {
+  0% {
   transform: rotate(-2deg);
   transform-origin: center bottom;
   }
@@ -4254,13 +4255,13 @@ body {
   transform: rotate(0deg);
   transform-origin: center bottom;
   }
-  to {
+  100% {
   transform: rotate(3deg);
   transform-origin: center bottom;
   }
 }
 @keyframes tree4 {
-  from {
+  0% {
   transform: rotate(-5deg);
   transform-origin: center bottom;
   }
@@ -4268,35 +4269,35 @@ body {
   transform: rotate(-1deg);
   transform-origin: center bottom;
   }
-  to {
+  100% {
   transform: rotate(3deg);
   transform-origin: center bottom;
   }
 }
 @keyframes star {
-  from {
+  0% {
   background: #1dc5db;
   }
-  to {
+  100% {
   background: #dff7fb;
   }
 }
 @keyframes __star__ {
-  from {
+  0% {
   transform: translateY(5px) translateX(30px) rotate(360deg);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateY(15px) translateX(-100px) rotate(0deg);
   opacity: 0;
   }
 }
 @keyframes _gifts_ {
-  from {
+  0% {
   transform: translateX(20px) translateY(20px) rotate(360deg);
   opacity: 1;
   }
-  to {
+  100% {
   transform: translateX(-80px) translateY(700px) rotate(0deg);
   opacity: 0;
   }
