@@ -34,6 +34,7 @@ body {
   width: 748px;
   background: #dfed77;
   overflow: hidden;
+  opacity: 1;
 }
 .left {
   position: relative;
@@ -1308,6 +1309,7 @@ body {
   background: linear-gradient(#120944 30%, #eaeaea 30%);
   overflow: hidden;
   border-radius: 20px;
+  opacity: 1;
 }
 .fence_top1 {
   position: relative;
@@ -3153,7 +3155,6 @@ body {
   opacity: 1;
   overflow: hidden;
   border-radius: 20px;
-  z-index: 9;
 }
 .big_moon {
   position: absolute;
@@ -4163,7 +4164,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    display: none;
+    visibility: hidden;
 }
 @keyframes disappear2 {
   0% {

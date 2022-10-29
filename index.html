@@ -553,6 +553,12 @@
         container3.style.display = d3;
       };
 
+      const setVisibility = (v1, v2, v3) => {
+        container1.style.visibility = v1;
+        container2.style.visibility = v2;
+        container3.style.visibility = v3;
+      };
+
       const isVisible = container => container.style.display === 'block';
 
       const setContainer = () => {
@@ -572,8 +578,12 @@
       };
 
       const onWindowLoad = () => {
-        setDisplay('block', 'none', 'none');
-        setInterval(setContainer, 20000);
+        setDisplay('none', 'none', 'none');
+        setTimeout(() => {
+          setVisibility('visible', 'visible', 'visible');
+          setDisplay('block', 'none', 'none');
+          setInterval(setContainer, 20000);
+        }, 500);
       };
 
       onload = onWindowLoad;
