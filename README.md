@@ -4,7 +4,7 @@
 
 ### Description
 
-    ◼️ The first animated block shows Santa looking through the window of a house where people have prepared for the new year and Christmas
+    ◼️ The first animated block shows Santa looking through the window of a house where people have prepared for the New Year and Christmas
     ◼️ The second animated block shows the street of the same house and what is happening there
     ◼️ The third animated block shows how Santa hurries to people on the background of the moon and the forest
     ◼️ Duration of every animated block is 20 seconds
