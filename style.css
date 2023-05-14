@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Pacifico&display=swap");
 html {
   background: linear-gradient(315deg, #274a6e 0%, #021b30 74%);
   width: 100%;
@@ -1870,7 +1871,7 @@ body {
   height: 15px;
   border: 5px solid #111;
   border-radius: 50%;
-  background: url(https://dl.dropbox.com/s/thvumm6k2bq1f8m/wheel.png);
+  background: url(./assets/wheel.png);
   background-size: 15px 15px;
   z-index: 999;
   animation: 1s rotate linear infinite;
